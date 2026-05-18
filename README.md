@@ -21,3 +21,7 @@ A procedurally generated novella with SVG images.
 ```bash
 python main.py
 ```
+
+## Lessons Learned
+
+Building a custom 3D pseudo-engine on a 2D canvas taught me a lot about coordinate math and performance optimization in Python. I also learned how valuable Type Hints are for maintaining structure in growing projects
