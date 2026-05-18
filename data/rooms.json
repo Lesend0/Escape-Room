@@ -1,0 +1,46 @@
+[
+    {
+        "id": "water",
+        "env": "wood",
+        "item": "table",
+        "desc": "room_water_desc",
+        "opt1": "room_water_opt1",
+        "opt2": "room_water_opt2",
+        "out1": "room_water_out1",
+        "out2": "room_water_out2",
+        "gain": "code"
+    },
+    {
+        "id": "trash",
+        "env": "dark",
+        "item": "trash",
+        "desc": "room_trash_desc",
+        "opt1": "room_trash_opt1",
+        "opt2": "room_trash_opt2",
+        "out1": "room_trash_out1",
+        "out2": "room_trash_out2",
+        "gain": "health"
+    },
+    {
+        "id": "book",
+        "env": "red",
+        "item": "pedestal",
+        "desc": "room_book_desc",
+        "opt1": "room_book_opt1",
+        "opt2": "room_book_opt2",
+        "out1": "room_book_out1",
+        "out2": "room_book_out2",
+        "gain": "key"
+    },
+    {
+        "id": "chest",
+        "env": "neon",
+        "item": "chest",
+        "desc": "room_chest_desc",
+        "opt1": "room_chest_opt1",
+        "opt2": "room_chest_opt2",
+        "out1": "room_chest_out1",
+        "out2": "room_chest_out2",
+        "gain": "map"
+    }
+]
